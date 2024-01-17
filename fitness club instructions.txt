@@ -1,0 +1,17 @@
+Seperatte admin and member penel 
+
+
+
+ member login
+
+Sign up with valid gmail account:
+
+
+first confirm the varification then member dashboard will accessible
+
+
+admin login 
+username: admin
+password: admin
+
+
